@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    // Your other compiler options...
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "exclude": [
+    "node_modules/rn-text-detector"
+  ]
+}

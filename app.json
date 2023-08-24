@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ocrApp",
+    "slug": "ocrApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ocrApp"
+}
